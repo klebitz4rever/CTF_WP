@@ -31,4 +31,5 @@ int main(){
     system("pause");
     return 0;
     //flag 记得包上 NSSCTF{} 再提交!!!
+    //NSSCTF{easy_Re}
 }
